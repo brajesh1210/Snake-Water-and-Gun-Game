@@ -68,5 +68,3 @@ This project is open-source and available under the MIT License.
 
 
 ---
-
-Would you like me to write a quick `requirements.txt` or `.gitignore` file to go along with your repository?
