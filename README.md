@@ -29,7 +29,7 @@ To run this game, you need to have Python installed on your system.
 
 1. **Clone the repository** (or download the script directly):
    ```bash
-   git clone [https://github.com/your-username/snake-water-gun.git](https://github.com/your-username/snake-water-gun.git)
+   git clone [https://github.com/brajesh1210/Snake-Water-and-Gun-Game.git](https://github.com/brajesh1210/Snake-Water-and-Gun-Game.git)
    ```
 2. **Navigate to the project directory**:
    ```bash
