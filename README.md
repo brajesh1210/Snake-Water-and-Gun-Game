@@ -30,24 +30,23 @@ To run this game, you need to have Python installed on your system.
 1. **Clone the repository** (or download the script directly):
    ```bash
    git clone [https://github.com/your-username/snake-water-gun.git](https://github.com/your-username/snake-water-gun.git)
-Navigate to the project directory:
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd snake-water-gun
+   ```
+3. **Run the Python script**:
+   ```bash
+   python game.py
+   ```
+4. **Follow the on-screen instructions** to choose your move:
+   * Press `s` for Snake
+   * Press `w` for Water
+   * Press `g` for Gun
 
-Bash
-cd snake-water-gun
-Run the Python script:
+## 💻 Example Output
 
-Bash
-python game.py
-Follow the on-screen instructions to choose your move:
-
-Press s for Snake
-
-Press w for Water
-
-Press g for Gun
-
-💻 Example Output
-Plaintext
+```text
 Welcome to Snake, Water, Gun Game!
 Let's play 5 rounds.
 
@@ -60,11 +59,8 @@ Result: You win this round!
 === Game Over ===
 Final Score -> You: 3 | Computer: 1
 Congratulations! You won the game! 🎉
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+```
 
-📝 License
-This project is open-source and available under the MIT License.
+## 📝 License
 
-
----
+This project is open-source and available under the [MIT License](LICENSE).
